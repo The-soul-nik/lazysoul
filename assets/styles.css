@@ -1,0 +1,9 @@
+body{
+  background-image: url(/static/boat.png);
+}
+h2{
+  color: white;
+}
+div{
+  border:2px solid lime; 
+}
